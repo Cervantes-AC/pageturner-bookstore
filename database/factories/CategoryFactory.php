@@ -9,9 +9,9 @@ class CategoryFactory extends Factory
     public function definition(): array
     {
         $categories = [
-            'Fiction', 'Non-Fiction', 'Science', 'Technology',
-            'Biography', 'History', 'Romance', 'Mystery',
-            'Self-Help', 'Children'
+            'Shonen', 'Shojo', 'Seinen', 'Josei',
+            'Isekai', 'Mecha', 'Slice of Life', 'Horror',
+            'Romance', 'Fantasy'
         ];
 
         return [
