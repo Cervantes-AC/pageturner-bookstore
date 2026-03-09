@@ -1,9 +1,9 @@
 # PageTurner Online Bookstore Management System
 
 ## Student Information
-- **Name:** [Your Name]
+- **Name:** Aaron Clyde C. Cervantes
 - **Course:** Bachelor of Science in Information Technology
-- **University:** [Your University]
+- **University:** Central Mindanao University
 - **Activity:** Laboratory Activity 3 - Routing, Controllers, Views, Blade Templating, and Database Operations
 
 ## Project Description
@@ -316,12 +316,6 @@ pageturner-bookstore/
     └── web.php
 ```
 
-## Bonus Features Implemented
-- 🛒 **Shopping Cart System** (+10 pts)
-- 📦 **Order Processing Workflow** (+5 pts)
-- 🔍 **Advanced Search & Filtering** (+5 pts)
-- 🖼️ **Image Upload with Storage** (+5 pts)
-
 ## Challenges Faced and Solutions
 
 1. **Challenge:** Complex Eloquent relationships
@@ -348,20 +342,6 @@ pageturner-bookstore/
 ## Academic Integrity Statement
 This project was completed individually as part of Laboratory Activity 3. All code was written following Laravel best practices and the provided specifications. The implementation demonstrates original understanding of the concepts taught in class.
 
-## Assessment Criteria Met
-- ✅ Project Setup & Authentication (20/20 pts)
-- ✅ Database Migrations (20/20 pts)
-- ✅ Eloquent Models & Relationships (20/20 pts)
-- ✅ Factories & Seeders (15/15 pts)
-- ✅ Controllers (25/25 pts)
-- ✅ Routes Configuration (10/10 pts)
-- ✅ Blade Views & Templates (40/40 pts)
-- ✅ Code Quality & Standards (10/10 pts)
-- ✅ Functionality Testing (10/10 pts)
-- ✅ Documentation (5/5 pts)
-- 🎉 **Bonus Features** (+25 pts)
-
-**Total Score: 200/175 points (114%)**
 
 ## License
 This project was created for educational purposes as part of coursework requirements.
@@ -371,10 +351,6 @@ This project was created for educational purposes as part of coursework requirem
 - **Laravel Breeze** - For authentication scaffolding
 - **Tailwind CSS** - For responsive design components
 - **My Instructor** - For providing detailed specifications and support
-
-## Contact Information
-- **GitHub:** [Your GitHub Username]
-- **Repository:** [Your Repository URL]
 
 ---
 
